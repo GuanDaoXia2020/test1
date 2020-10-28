@@ -1,4 +1,4 @@
-/*haha001*/
+/*haha*/
 #include <stdio.h>
 void main{
 
